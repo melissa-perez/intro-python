@@ -1,0 +1,12 @@
+Using the game "Dodger" as a base for the final project, 
+the final project will consist of a enhancing or implementing 
+ideas of Dodger with advanced topics:
+
+Inheritance
+Classes
+Lists
+Pygame methods
+I/0 for score keeping
+string processing
+
+

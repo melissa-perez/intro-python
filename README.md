@@ -1,3 +1,3 @@
 # intro-python
 
-My Python work from an introductory class.
+A repository filled with python code and notes.
